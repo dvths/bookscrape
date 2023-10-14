@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bookscrape"
+  site-url: "https://dvths.github.io/bookscrape"
+  description: "Estudando o desenvolvimento de crawlers em abiente baseado em notebooks com nbdv e scrapy."
+  repo-branch: main
+  repo-url: "https://github.com/dvths/bookscrape"
